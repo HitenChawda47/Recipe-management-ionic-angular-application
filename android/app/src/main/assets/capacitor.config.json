@@ -1,0 +1,8 @@
+{
+  "appId": "com.chawda_hiten.www",
+  "appName": "Recipe",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
